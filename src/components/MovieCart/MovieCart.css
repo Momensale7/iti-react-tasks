@@ -1,0 +1,15 @@
+.movie-card {
+    border-radius: 10px;
+    background-color: red ;
+    overflow: hidden;
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .movie-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .card-img-top {
+    height: 300px;
+    object-fit: cover;
+  }
