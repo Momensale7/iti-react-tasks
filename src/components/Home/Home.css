@@ -1,0 +1,10 @@
+.home{
+    height: 100vh;
+    background-image: url(../../assests/hero\ img.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.homeText{
+    height: 100%;
+}
